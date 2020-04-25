@@ -11,6 +11,7 @@ body{
     border: solid;
     border-radius: 5px;
     box-shadow: 3px 3px;
+    
 
     
 }
@@ -37,6 +38,7 @@ border-bottom: solid;
     
     
     
+    
 }
 #btns{
 display:flex;
@@ -50,8 +52,10 @@ padding: 10px;
     font-size:18px;
     margin:4px;
     flex-grow: 1;
-    background-color: black;
+    background-color:black;
     color:red;
+    border-radius: 10px;
+    box-shadow: 1px 1px black;
     
 }
 #btn0,#btn1{
